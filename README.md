@@ -5,3 +5,4 @@ This project is a responsive landing page created based on the BIKE New Version 
 # Live Demo
 Experience the live website: [BIKE Landing Page](https://ArtemHryb.github.io/Bike-Store-Landing/)
 
+# Design reference - [Figma Bike](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f)
