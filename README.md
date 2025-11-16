@@ -40,7 +40,7 @@ Follow these steps to set up the project locally:
 Start by cloning the project to your local machine:
 
 ```bash
-git clone [https://github.com/ArtemHryb/Bike-Store-Landing.git](https://github.com/ArtemHryb/Bike-Store-Landing.git)
+git clone https://github.com/ArtemHryb/Bike-Store-Landing.git
 ```
 Navigate into the project directory:
 
