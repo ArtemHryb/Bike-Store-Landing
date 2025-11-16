@@ -23,9 +23,9 @@ Stylelint-SCSS (v6.4.1) – SCSS-specific linting rules
 
 1. Clone the repository:
 
-**git clone https://github.com/ArtemHryb/Bike-Store-Landing.git**
+**git clone **https://github.com/ArtemHryb/Bike-Store-Landing.git
 
-**cd Bike-Store-Landing**
+**cd** Bike-Store-Landing
 
 2. Install dependencies:
 **npm install**
