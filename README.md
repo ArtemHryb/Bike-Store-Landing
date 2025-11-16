@@ -5,7 +5,7 @@ This project is a responsive landing page created based on the BIKE New Version 
 # Live Demo
 Experience the live website: [BIKE Landing Page](https://ArtemHryb.github.io/Bike-Store-Landing/)
 
-# Design reference
+# Design Reference
 Link for design: [Figma Bike](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f)
 
 # Technologies Used 💻
@@ -18,3 +18,16 @@ Code Quality
 Prettier (v3.3.2) – Code formatting
 Stylelint (v16.7.0) – CSS/SCSS linting
 Stylelint-SCSS (v6.4.1) – SCSS-specific linting rules
+
+#Getting Started
+
+1. Clone the repository:
+
+**git clone https://github.com/ArtemHryb/Bike-Store-Landing.git
+cd Bike-Store-Landing**
+
+2. Install dependencies:
+**npm install**
+
+3. Run the project locally:
+ **npm start**
